@@ -1,0 +1,381 @@
+
+
+@media(min-width:992px) and (max-width:1199px){
+    
+    #banner .banner-cnt h1 {
+     
+     
+        font-weight: 700;
+        font-size: 64px;
+        
+    }
+    
+    
+    #banner .slick-dots {
+   
+        bottom: 30%;
+        left: 28px;
+        
+    }
+    #flash_sale .Body_Lotions {
+        background: #A6AAB7;
+        margin: 40px 30px;
+        padding: 27px 24px 130px 24px;
+    }
+    #flash_sale .fairness_cream{
+        background: #A6AAB7;
+        margin: 40px 42px;
+        padding: 27px 24px 130px 24px;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    #flash_sale .Body_Lotions{
+        display:none;
+    }
+    #flash_sale .fairness_cream {
+        background: rgb(166, 170, 183);
+        margin: -9px 1px;
+        padding: 24px 109px 91px;
+    }
+
+    #banner .banner-img {
+        height: 500px;
+    
+    }
+    #banner .row {
+        height: 500px;
+    }
+    #banner .banner-cnt h1 {
+       
+        font-weight: 700;
+        font-size: 53px;
+        line-height: 105px;
+      
+    }
+    #banner .slick-dots {
+       
+        bottom: 30%;
+        left: 62px;
+        line-height: 1px;
+     
+    }
+    .button {
+        padding: 15px 20px;
+    }
+    #flash_sale .wraper .countdown ul li {
+        display: inline-block;
+        padding: 30px 0;
+        text-align: center;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 37px;
+        text-align: center;
+        color: #444444;
+        padding: 8px 18px;
+        position: relative;
+    }
+    
+    #flash_sale .wraper .countdown {
+        transform: translateY(-50%);
+        width: 581px;
+      
+        margin: auto;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 10px rgba(21, 26, 50, 0.1);
+        border-radius: 40px;
+        padding: 21px 0px;
+    }    
+}
+@media(min-width:320px) and (max-width:767px)
+
+{   #categories .category-card:nth-child(1){
+    padding-bottom: 15px;
+  }
+    #banner .banner-cnt h1 {
+        width: 215px;
+        height: 6px;
+        left: 298px;
+        top: 401px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 48px;
+        color: var(--blackcolor);
+        transition-delay: 400ms;
+    }
+
+#banner .banner-img {
+    height: 300px;
+
+}
+#banner .row {
+    height: 300px;
+}
+#banner .banner-cnt p {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 25px;
+    width: 347px;
+    height: 35px;
+}
+.button {
+    padding: 9px 4px;
+    font-size: 14px;
+   
+}
+#banner .slick-dots {
+    position: absolute;
+    bottom: 0%;
+    left: 116px;
+    bottom: 30px;
+}
+#banner .slick-dots button{
+    transform: scale(0.5);
+}
+
+#new_product h2 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 0px;
+    text-align: center;
+    color: #0f0f0f;
+    padding: 0px 0 50px 0;
+}
+
+#second_banner h3 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding: 16px 0 8px 0;
+    text-align: left;
+}
+#second_banner p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+#second_banner .button_tow {
+    padding: 5px 0 31px 0;
+}
+#second_banner a {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 12px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #A6AAB7;
+    border: 1px solid;
+}
+#new_product h2 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 0px;
+    text-align: center;
+    color: #0f0f0f;
+    padding: 0px 0 50px 0;
+}
+#new_product .product-info p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 0px;
+    color: #444444;
+}
+#new_product .product-info h4 {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: -1px;
+    text-align: center;
+    color: #11161E;
+    padding-bottom: 11px;
+}
+
+
+#new_product h2 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+    text-align: center;
+    color: #0f0f0f;
+    padding: 24px 0 83px 0;
+}
+#flash_sale .wraper .countdown ul li {
+    display: inline-block;
+    padding: 30px 0;
+    text-align: center;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 00;
+    font-size: 11px;
+    line-height: 0px;
+    text-align: center;
+    color: #444444;
+    padding: 6px 10px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+#flash_sale .wraper .countdown {
+    transform: translateY(-50%);
+    width: 318px;
+    border-radius: 40px;
+    margin: auto;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(21, 26, 50, 0.1);
+    border-radius: 40px;
+    padding: 8px 0px;
+}
+
+
+#flash_sale .fairness_cream {
+    background: #A6AAB7;
+    margin: 1px 0px;
+    padding: 0px 0px 0px 29px;
+}
+
+#flash_sale .Body_Lotions {
+    background: #A6AAB7;
+    margin: 40px 30px;
+    padding: 27px 24px 130px 24px;
+    display: none;
+}
+#flash_sale .fairness_cream h4 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+    color: #11161E;
+    padding: 18px 0 0 0;
+}
+#flash_sale .fairness_cream h2 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 10px;
+    color: #11161E;
+    text-align: left;
+    padding: 23px 0 18px 0;
+}
+#flash_sale .fairness_cream p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    color: #444444;
+    padding: 0px 0;
+}
+#flash_sale .fairness_cream h6 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1px;
+    color: #000000;
+    padding: 0px 0 14px 0;
+}
+#flash_sale .fairness_cream span {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1px;
+    color: #000000;
+    padding: 0px 0 14px 0;
+}
+#flash_sale .fairness_cream  .button {
+    background: #151A32;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 54px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#flash_sale .fairness_cream  .button {
+    background: #151A32;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 54px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+#product_vdo .special_offer {
+    padding: 34px 20px;
+    background: #F1F3F4;
+}
+#product_vdo {
+    padding-top: 32px;
+    position: relative;
+}
+#product_vdo .special_offer h5 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 4px;
+    color: #444444;
+}
+#product_vdo .special_offer h2 {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 31px;
+    color: #11161E;
+    padding: 13px 0px;
+}
+#product_vdo .special_offer p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #444444;
+}
+.button {
+    padding: 9px 4px;
+    font-size: 10px;
+}
+#product_vdo .special_vdo .overlay {
+    position: absolute;
+    top: 73%;
+    left: 43%;
+    color: #FF6F61;
+    font-size: 25px;
+  
+}
+#product_vdo .special_vdo .overlay span {
+    width: 48px;
+    height: 48px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 48px;
+}
+
+}
